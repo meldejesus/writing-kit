@@ -1,0 +1,11 @@
+# Project-specific overlays — stay local, never commit
+zine-session-log.md
+zine-style.md
+project-overlay.md
+project-overlay/
+
+# macOS
+.DS_Store
+
+# Obsidian workspace files if this kit is opened directly in Obsidian
+.obsidian/
